@@ -1,6 +1,6 @@
 # audioplayers_simple
 
-The purpose of this project is to quickly create audio file playback, which is the most basic function of the "audioplayers" package.
+The purpose of this project is to quickly implement audio file playback in Flutter using the most basic function of the "audioplayers" package.
 
 ## Getting Started
 
